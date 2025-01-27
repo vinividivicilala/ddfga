@@ -1,0 +1,14 @@
+{
+  "name": "Rohid",
+  "bio": "Indie Hacker - Freelance full-stack developer and designer - Building Apps in Public",
+  "twitterHandle": "rohiddev",
+  "linkedInHandle": "rohiddev",
+  "country": "Bangladesh",
+  "website": "https://rohid.dev",
+  "avatar": {
+    "url": "/images/authors/rohid/avatar.png",
+    "width": 1080,
+    "height": 1080,
+    "alt": "Profile photo of Rohid"
+  }
+}
